@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live : [Add live site URL here](https://your-live-site-url.com)
+- Live : [https://c-costin.github.io/nft-preview-card-component/](https://c-costin.github.io/nft-preview-card-component/)
 - Repo Github: [https://github.com/c-costin/nft-preview-card-component](https://github.com/c-costin/nft-preview-card-component)
 
 ## My process
@@ -50,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [costincadeau.fr](https://costincadeau.fr)
+- Frontend Mentor - [@c-costin](https://www.frontendmentor.io/profile/c-costin)
